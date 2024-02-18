@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="textViewAdres">Adres</string>
+    <string name="textViewNakit">1500 TL</string>
+    <string name="textViewNakit3">10</string>
+    <string name="button">İleri</string>
+    <string name="tutar">Toplam Tutar</string>
+    <string name="membernumber">43</string>
+    <string name="member">Üye</string>
+    <string name="cihaz">Cihaz</string>
+</resources>

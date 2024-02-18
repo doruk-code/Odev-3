@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="textViewAdres">Address</string>
+    <string name="textViewNakit">$543</string>
+    <string name="textViewNakit3">10</string>
+    <string name="button">Next</string>
+    <string name="tutar">Total Amount</string>
+    <string name="membernumber">23</string>
+    <string name="member">Member</string>
+    <string name="cihaz">Device</string>
+</resources>
